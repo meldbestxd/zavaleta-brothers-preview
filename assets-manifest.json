@@ -1,0 +1,158 @@
+[
+  {
+    "name": "parking-lot-sealcoat-striping",
+    "source": "source-site-images/site-27.jpg",
+    "original_size": [
+      799,
+      519
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/parking-lot-sealcoat-striping.webp",
+    "output_size": [
+      799,
+      519
+    ]
+  },
+  {
+    "name": "commercial-lot-line-striping",
+    "source": "source-site-images/site-28.jpg",
+    "original_size": [
+      1280,
+      1477
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/commercial-lot-line-striping.webp",
+    "output_size": [
+      1280,
+      1477
+    ]
+  },
+  {
+    "name": "finished-commercial-lines",
+    "source": "source-site-images/site-37.jpg",
+    "original_size": [
+      599,
+      337
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/finished-commercial-lines.webp",
+    "output_size": [
+      599,
+      337
+    ]
+  },
+  {
+    "name": "residential-driveway-sealcoating",
+    "source": "source-facebook-images/fb-11.jpg",
+    "original_size": [
+      160,
+      160
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/residential-driveway-sealcoating.webp",
+    "output_size": [
+      160,
+      160
+    ]
+  },
+  {
+    "name": "fresh-driveway-sealcoat",
+    "source": "source-facebook-images/fb-12.jpg",
+    "original_size": [
+      160,
+      160
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/fresh-driveway-sealcoat.webp",
+    "output_size": [
+      160,
+      160
+    ]
+  },
+  {
+    "name": "residential-driveway-finish",
+    "source": "source-facebook-images/fb-14.jpg",
+    "original_size": [
+      160,
+      160
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/residential-driveway-finish.webp",
+    "output_size": [
+      160,
+      160
+    ]
+  },
+  {
+    "name": "crack-sealing-before",
+    "source": "source-site-images/site-31.jpg",
+    "original_size": [
+      599,
+      799
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/crack-sealing-before.webp",
+    "output_size": [
+      599,
+      799
+    ]
+  },
+  {
+    "name": "crack-sealing-after",
+    "source": "source-site-images/site-35.jpg",
+    "original_size": [
+      357,
+      200
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/crack-sealing-after.webp",
+    "output_size": [
+      357,
+      200
+    ]
+  },
+  {
+    "name": "stamped-asphalt-finish",
+    "source": "source-site-images/site-38.jpg",
+    "original_size": [
+      1200,
+      1200
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/stamped-asphalt-finish.webp",
+    "output_size": [
+      1200,
+      1200
+    ]
+  },
+  {
+    "name": "red-stamped-surface",
+    "source": "source-site-images/site-40.jpg",
+    "original_size": [
+      1200,
+      1200
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/red-stamped-surface.webp",
+    "output_size": [
+      1200,
+      1200
+    ]
+  },
+  {
+    "name": "brand-card",
+    "source": "source-facebook-images/fb-02.jpg",
+    "original_size": [
+      960,
+      561
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/brand-card.webp",
+    "output_size": [
+      960,
+      561
+    ]
+  },
+  {
+    "name": "brand-square",
+    "source": "source-facebook-images/fb-01.jpg",
+    "original_size": [
+      720,
+      720
+    ],
+    "output": "/home/juan/JuanAI_Workspace/zavaletas-brothers-website/assets/brand-square.webp",
+    "output_size": [
+      720,
+      720
+    ]
+  }
+]
