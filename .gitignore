@@ -1,0 +1,5 @@
+# Working-source captures and review screenshots are kept outside versioned launch files
+source-facebook-images/
+source-public-site/
+source-site-images/
+*.png
