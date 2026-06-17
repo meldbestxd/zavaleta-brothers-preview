@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meldbestxd.github.io/zavaleta-brothers-preview/sitemap.xml
